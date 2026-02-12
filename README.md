@@ -1,78 +1,69 @@
-# Hi 👋 I'm Mayank Bhushan
+<h1 align="center">Hi 👋, I'm Mayank Bhushan</h1>
+<h3 align="center">💻 Programmer | 🌐 Web Developer | 📡 Networking Enthusiast</h3>
 
-🎓 Aspiring Software Developer  
-💻 Passionate about Programming, Web Development & System Design  
-📫 Contact: mayankbhushan1305@gmail.com  
-
----
-
-## 🚀 About Me
-
-I am a motivated developer with strong foundations in programming and web technologies.  
-I enjoy building real-world projects and solving technical problems using efficient and scalable solutions.
-
-- 🔭 Strengthening my skills in Java & Python
-- 🌱 Expanding my knowledge in backend development
-- 👯 Open to collaborating on software and web development projects
-- 💡 Interested in networking, system design, and full-stack development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+C+%7C+C%2B%2B;Web+Developer;Tech+Learner+%26+Creator" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🌸 About Me
+✨ Computer Science Student  
+🚀 Passionate about building projects & learning new technologies  
+📚 Interested in Networking + Development  
+🎯 Goal → Become a skilled Software Developer  
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
-## 📌 Featured Projects
+## 📂 Projects
 
-### 🔹 University Network Design
-Designed and simulated a scalable university network infrastructure.
-- Implemented IP addressing and subnetting
-- Applied routing and switching concepts
-- Focused on secure and efficient data communication
+### 🏫 University Network Design
+📡 Designed a campus-wide network using hierarchical architecture  
+🔹 Implemented routing & segmentation  
+🛠 Tool → Cisco Packet Tracer  
 
-### 🔹 Fineline Crafts & Candles Website
-Developed a responsive business website for a crafts and candles brand.
-- Built using HTML, CSS, and JavaScript
-- Designed clean and modern UI
-- Created responsive product showcase layout
+---
 
-### 🔹 Father’s Day Web Project
-Developed a themed interactive website.
-- Used HTML, CSS, and JavaScript
-- Focused on user-friendly design and creativity
-- Implemented responsive layout
+### 🕯 Fineline Crafts & Candles Website
+🛍 Business website for handmade candles  
+🎨 Product display + pricing layout  
+💻 Built with HTML, CSS, JS  
+
+---
+
+### 💙 Father's Day Website
+🎉 Interactive themed website  
+✨ Animated UI + creative design  
+💻 Built with HTML, CSS, JS  
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankbhushan1305&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhushan1305&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Career Objective
-
-To build a strong career as a Software Developer by continuously improving my technical skills and contributing to innovative and impactful projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankbhushan1305&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankbhushan1305&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
-
-📧 Email: mayankbhushan1305@gmail.com  
+## 📫 Contact
+📧 **mayankbhushan1305@gmail.com**
 
 ---
 
-⭐️ Thank you for visiting my profile!
+<p align="center">⭐ Thanks for visiting my profile ⭐</p>
