@@ -45,13 +45,13 @@ Developed a responsive business website for a handmade candle brand.
 - Product showcase layout  
 - Pricing sections  
 - Clean UI design  
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** HTML
 
 ---
 
 ### 🎉 Father's Day Website
 Built a themed interactive webpage with creative animations and UI elements.  
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** HTML
 
 ---
 
