@@ -55,6 +55,15 @@ Built a themed interactive webpage with creative animations and UI elements.
 
 ---
 
+### 🤖 AI Skincare Recommendation System
+Developed an AI-based web application that recommends skincare routines based on user skin type and concerns.  
+- User inputs skin type and problems  
+- AI suggests suitable skincare routine  
+- Simple and interactive web interface  
+**Tech:** Python, Flask, HTML
+  
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankbhushan1305&show_icons=true&theme=tokyonight" />
